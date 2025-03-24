@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teroriata&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teroriata&layout=compact&theme=dracula&cache_seconds=60)
 
 ##
 
